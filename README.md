@@ -51,6 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&" alt="tanviruman" /></p>
-### DIGITALBADGE
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="977239cf-0a08-4eb9-9388-19c691b01c2d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="881a7229-e2f5-45b1-8a12-79fc82757cbe" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
