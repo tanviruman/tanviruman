@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
-<h3 align="center">A passionate about Coding and Problem-Solving | Cybersecurity Enthusiast at UIU</h3>
+<h3 align="center">Passionate about Coding and Problem-Solving | Cybersecurity Enthusiast at UIU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
 
