@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Basic Introductory Problems](https://tanviruman.hashnode.dev/basic-introductory-problems)
+- [C programming Basic Introductory Problems and Solutions](https://tanviruman.hashnode.dev/basic-introductory-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
