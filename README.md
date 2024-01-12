@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanviruman.github.io](https://tanviruman.github.io)
 
-- 📝 I regularly write articles on [tanviruman.medium.com](tanviruman.medium.com)
+- 📝 I regularly write articles on [https://tanviruman.medium.com](https://anviruman.medium.com)
 
 - 📫 How to reach me **tanvirumancontact@gmail.com**
 
