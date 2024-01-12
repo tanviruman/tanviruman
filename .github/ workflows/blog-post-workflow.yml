@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tanviruman.hashnode.dev/rss.xml,https://medium.com/feed/@tanviruman"
+          feed_list: "https://tanviruman.hashnode.dev/rss.xml,https://medium.com/feed/@tanviruman,https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
