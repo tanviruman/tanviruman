@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
 
+<p [![wakatime](https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg)](https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9) </p>
+  
 <p align="left"> <a href="https://twitter.com/tanviruman" target="blank"><img src="https://img.shields.io/twitter/follow/tanviruman?logo=twitter&style=for-the-badge" alt="tanviruman" /></a> </p>
 
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
