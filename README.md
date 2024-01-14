@@ -33,7 +33,7 @@
 <a href="https://kaggle.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanviruman" height="30" width="40" /></a>
 <a href="https://medium.com/@tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanviruman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanviruman" height="30" width="40" /></a>
-<a href="/https://tanviruman.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://tanviruman.hashnode.dev/rss.xml" height="30" width="40" /></a>
+
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
