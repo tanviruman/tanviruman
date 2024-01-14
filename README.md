@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tanvirumancontact@gmail.com**
 
-### Blogs posts
+### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [C programming Basic Introductory Problems and Solutions](https://tanviruman.hashnode.dev/basic-introductory-problems)
 - [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
