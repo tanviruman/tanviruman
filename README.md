@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
-<h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science communit</h3>
+<h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
 
