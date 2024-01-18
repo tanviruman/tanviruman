@@ -35,6 +35,7 @@
 <a href="https://www.leetcode.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanviruman" height="30" width="40" /></a>
 
 </p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
+
