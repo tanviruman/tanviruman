@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Tanvir Ahmed</h1>
-<h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community</h3>
+
+<p align="center">
+  <a href="https://github.com/tanviruman">
+    </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MusarratZeba/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Tanvir%20Ahmed;CSE%20@%20UIU-232;Junior%20Programmer;Aspiring%20Data%20Scientist;Research%20and%20Robotics%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22"" />
+</a>
+
+</p>
+
+
+
+<br/>
+
+
+<h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community.</h3>
 
 [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman)
 
