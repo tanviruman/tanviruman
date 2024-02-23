@@ -39,11 +39,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
  [![Leetcode](https://img.shields.io/badge/Leetcode-Follow-orange)](https://www.leetcode.com/tanviruman/)
  [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.leetcode.com/tanviruman/)
   
-<a href="https://twitter.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanviruman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanvirumaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirumaan" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanviruman" height="30" width="40" /></a>
-<a href="https://medium.com/@tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanviruman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanviruman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanviruman" height="30" width="40" /></a>
+
 
 </p>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
