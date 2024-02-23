@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/MusarratZeba/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Tanvir%20Ahmed;CSE%20@%20UIU-232;Junior%20Programmer;Aspiring%20Data%20Scientist;Research%20and%20Robotics%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22"" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Tanvir%20Ahmed;CSE%20@%20UIU-232;Junior%20Programmer;Aspiring%20Data%20Scientist;Research%20and%20Robotics%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FFFF00&vCenter=true&pause=1000&size=22"" />
 </a>
 
 </p>
