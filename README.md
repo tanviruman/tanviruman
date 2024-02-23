@@ -84,5 +84,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 [![Windows](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=A8B9CC)](#)&nbsp;
+[![Js](https://img.shields.io/badge/-Js-05122A?style=flat&logo=Js&logoColor=A8B9CC)](#)&nbsp;
+
 
 
