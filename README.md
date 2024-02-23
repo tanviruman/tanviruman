@@ -72,5 +72,17 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 <h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 
+ &nbsp; ✨ 
+
+[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)](#)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](#)&nbsp;
+[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)](#)&nbsp;
+[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
+[![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=007ACC)](#)&nbsp;
+[![Windows](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
+[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
+
 
 
