@@ -18,13 +18,15 @@
 
 <h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community.</h3>
 
+
 [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
 
 <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
 
-<p align="left"> <a href="https://twitter.com/tanviruman" target="blank"><img src="https://img.shields.io/twitter/follow/tanviruman?logo=twitter&style=for-the-badge" alt="tanviruman" /></a> </p>
+[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
+ ---
 
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
 
@@ -34,7 +36,7 @@
 
 - 📝 I regularly write articles on [https://tanviruman.medium.com](https://tanviruman.medium.com)
 
-- 📫 How to reach me **tanvirumancontact@gmail.com**
+  ---
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -44,7 +46,7 @@
 - [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
 - [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
 <!-- BLOG-POST-LIST:END -->
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out, and let's embark on this incredible journey of innovation and discovery.
@@ -57,10 +59,14 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
  [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.leetcode.com/tanviruman/)
   
 
-
+---
 </p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=light" alt="roadmap.sh"/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&" alt="tanviruman" /></p>
+---
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
+
+
