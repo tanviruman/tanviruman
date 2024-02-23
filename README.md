@@ -24,9 +24,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
 
 <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
-
 [![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
- ---
+---
 
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
 
@@ -36,7 +35,7 @@
 
 - 📝 I regularly write articles on [https://tanviruman.medium.com](https://tanviruman.medium.com)
 
-  ---
+---
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -64,9 +63,12 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=light" alt="roadmap.sh"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&" alt="tanviruman" /></p>
----
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
+---
+<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
+
 
 
