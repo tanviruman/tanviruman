@@ -61,18 +61,25 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 ---
 </p>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=light" alt="roadmap.sh"/></a>
+
+### TOP Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
+
+
+---
+</p>
+
+### Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&" alt="tanviruman" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
+---
+</p> 
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
 
 <h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 
- &nbsp; ✨ 
+
 
 [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)](#)&nbsp;
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
@@ -85,5 +92,5 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=A8B9CC)](#)&nbsp;
 [![js](https://img.shields.io/badge/-Js-05122A?style=flat&logo=javascript&logoColor=A8B9CC)](#)&nbsp;
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 
