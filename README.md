@@ -70,7 +70,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 </p>
 
 ### Github Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&" alt="tanviruman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
 
   
