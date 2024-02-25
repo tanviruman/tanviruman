@@ -100,3 +100,4 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 ### MY Learning Journey
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
