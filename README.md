@@ -101,3 +101,6 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tanvirumaan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/tanvirumaan?trk=profile-badge">Tanvir Ahmed</a></div>
+              
