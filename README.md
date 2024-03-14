@@ -95,11 +95,14 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=A8B9CC)](#)&nbsp;
 [![js](https://img.shields.io/badge/-Js-05122A?style=flat&logo=javascript&logoColor=A8B9CC)](#)&nbsp;
 
+---
 
+### Badges
+[![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman)
 ---
 ### MY Learning Journey
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
-[![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman)
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
