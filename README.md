@@ -41,9 +41,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
 - [C programming Operator Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-operator-related-problems-and-solutions)
+- [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
 - [C programming Basic Introductory Problems and Solutions](https://tanviruman.hashnode.dev/basic-introductory-problems)
 - [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
-- [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 <h3 align="left">Connect with me:</h3>
