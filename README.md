@@ -55,7 +55,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
  [![Hashnode](https://img.shields.io/badge/Hashnode-Follow-blue)](https://tanviruman.hashnode.dev/)
  [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://kaggle.com/tanviruman/)
  [![Leetcode](https://img.shields.io/badge/Leetcode-Follow-orange)](https://www.leetcode.com/tanviruman/)
- [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.leetcode.com/tanviruman/)
+ [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.hackerrank.com/profile/tanviruman/)
   
 
 ---
