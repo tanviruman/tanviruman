@@ -82,19 +82,28 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 <h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
 
+## Languages
 
-
-[![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)](#)&nbsp;
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 [![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 [![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](#)&nbsp;
-[![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;
+
+
+## Tools
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)](#)&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)&nbsp;
-[![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=007ACC)](#)&nbsp;
-[![Windows](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
-[![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=A8B9CC)](#)&nbsp;
-[![js](https://img.shields.io/badge/-Js-05122A?style=flat&logo=javascript&logoColor=A8B9CC)](#)&nbsp;
+
+
 
 ---
 
