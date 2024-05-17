@@ -112,6 +112,28 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>
 
 ---
+## Problem Solving Stats
+
+
+| OJ | Username | Solve Count | Max Rating |
+| -- | -------- | ----------- | ---------- |
+| Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
+| AtCoder | [tanviruman](https://atcoder.jp/users/mrashid_5919) | 294 | 803 |
+| CodeChef | [tanviruman](https://www.codechef.com/users/mrashid_5919) | 168 | 1746 |
+| Toph | [tanviruman](https://toph.co/u/mrashid_5919) | 54 | 1792 |
+| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 53 | - |
+| CSES | [tanviruman](https://cses.fi/user/28842) | 38 | - |
+| LightOJ | [tanviruman](https://lightoj.com/user/mrashid_5919) | 19 | - | 
+| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=339091) | 19 | - |
+| HackerRank | [tanviruman](https://www.hackerrank.com/profile/mayesha1599) | 19 | - |
+| Kattis | [tanviruman](https://open.kattis.com/users/mrashid5919) | 13 | - |
+| SPOJ | [tanviruman](https://www.spoj.com/users/mrashid_5919/) | 5 | - |
+| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
+| Vjudge | [tanviruman](https://vjudge.net/user/mr_5919) | - | - |
+
+Last Updated: 16 May, 2024
+
+---
 
 ### Badges
 [![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman)
