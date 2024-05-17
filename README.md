@@ -118,17 +118,18 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
 | Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
-| AtCoder | [tanviruman](https://atcoder.jp/users/mrashid_5919) | 294 | 803 |
-| CodeChef | [tanviruman](https://www.codechef.com/users/mrashid_5919) | 168 | 1746 |
-| Toph | [tanviruman](https://toph.co/u/mrashid_5919) | 54 | 1792 |
-| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 53 | - |
-| CSES | [tanviruman](https://cses.fi/user/28842) | 38 | - |
-| LightOJ | [tanviruman](https://lightoj.com/user/mrashid_5919) | 19 | - | 
-| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=339091) | 19 | - |
-| HackerRank | [tanviruman](https://www.hackerrank.com/profile/mayesha1599) | 19 | - |
-| Kattis | [tanviruman](https://open.kattis.com/users/mrashid5919) | 13 | - |
-| SPOJ | [tanviruman](https://www.spoj.com/users/mrashid_5919/) | 5 | - |
-| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 1 | - |
+| AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
+| CodeChef | [tanviruman](https://www.codechef.com/tanviruman) | 00 | 00 |
+| Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
+| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 00 | - |
+| CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
+| LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
+| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
+| HackerRank | [tanviruman](https://www.hackerrank.com/profile/tanviruman) | 00 | - |
+| HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
+| Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
+| SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
+| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 00 | - |
 | Vjudge | [tanviruman](https://vjudge.net/user/mr_5919) | - | - |
 
 Last Updated: 16 May, 2024
