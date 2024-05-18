@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
+
+
 
 <p align="center">
   <a href="https://github.com/tanviruman">
@@ -24,10 +27,6 @@
 <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
 [![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
-
-[![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman)
-
 ---
 
 # Current overview
@@ -40,6 +39,76 @@
 - 📝 I regularly write articles on [https://tanviruman.medium.com](https://tanviruman.medium.com)
 
 ---
+</p> 
+
+<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
+
+
+## Languages
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](#)&nbsp;
+
+## Tools
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
+![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
+![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)](#)&nbsp;
+[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
+[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
+
+## Problem Solving Stats
+
+
+| OJ | Username | Solve Count | Max Rating |
+| -- | -------- | ----------- | ---------- |
+| Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
+| AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
+| CodeChef | [tanviruman](https://www.codechef.com/tanviruman) | 00 | 00 |
+| Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
+| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 00 | - |
+| CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
+| LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
+| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
+| HackerRank | [tanviruman](https://www.hackerrank.com/profile/tanviruman) | 00 | - |
+| HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
+| Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
+| SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
+| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 00 | - |
+| Vjudge | [tanviruman](https://vjudge.net/user/mr_5919) | - | - |
+| Codewars| [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman) | - | - |
+
+Last Updated: 16 May, 2024
+
+---
+</p>
+
+### Github Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
+
+  
+---
+---
+</p>
+
+
+### TOP Languages
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
+
+
+
+
+
+---
+
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -62,80 +131,12 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
  [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.hackerrank.com/profile/tanviruman/)
   
 
----
-</p>
-
-
-### TOP Languages
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
-
-
----
-</p>
-
-### Github Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
-
-  
----
-</p> 
-
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
-
-<h3 style="color:yellow;margin-bottom: 15px;" >Mostly work with⚒️</h3> 
-
-## Languages
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-[![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)](#)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](#)&nbsp;
-
-
-## Tools
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)<br />
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=codeblocks)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word) 
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat&logo=visual-studio&logoColor=007ACC)](#)&nbsp;
-[![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
-[![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
-
-
-
----
 
 ### Coding Activity
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>
 
 ---
-## Problem Solving Stats
-
-
-| OJ | Username | Solve Count | Max Rating |
-| -- | -------- | ----------- | ---------- |
-| Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
-| AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
-| CodeChef | [tanviruman](https://www.codechef.com/tanviruman) | 00 | 00 |
-| Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
-| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 00 | - |
-| CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
-| LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
-| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
-| HackerRank | [tanviruman](https://www.hackerrank.com/profile/tanviruman) | 00 | - |
-| HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
-| Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
-| SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
-| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 00 | - |
-| Vjudge | [tanviruman](https://vjudge.net/user/mr_5919) | - | - |
-
-Last Updated: 16 May, 2024
 
 ---
 
