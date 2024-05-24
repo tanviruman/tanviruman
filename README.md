@@ -96,7 +96,6 @@ Last Updated: 16 May, 2024
 
   
 ---
----
 </p>
 
 
@@ -136,7 +135,6 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>
 
----
 
 ---
 
