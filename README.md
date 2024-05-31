@@ -32,7 +32,7 @@
 # Current overview
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
 
-- 🌱 I’m currently learning **C & Java**
+- 🌱 I’m currently learning **C++ & Java**
 
 - 👨‍💻 All of my projects are available at [https://tanviruman.github.io](https://tanviruman.github.io)
 
@@ -71,7 +71,7 @@
 | -- | -------- | ----------- | ---------- |
 | Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
 | AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
-| CodeChef | [tanviruman](https://www.codechef.com/tanviruman) | 00 | 00 |
+| CodeChef | [tanviruman](https://www.codechef.com/users/tanviruman) | 00 | 00 |
 | Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
 | LeetCode | [tanviruman](https://leetcode.com/tanviruman) | 00 | - |
 | CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
