@@ -73,7 +73,7 @@
 | AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
 | CodeChef | [tanviruman](https://www.codechef.com/tanviruman) | 00 | 00 |
 | Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
-| LeetCode | [tanviruman](https://leetcode.com/mrashid_5919) | 00 | - |
+| LeetCode | [tanviruman](https://leetcode.com/TANVIRUMAN) | 00 | - |
 | CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
 | LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
 | Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
