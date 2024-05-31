@@ -81,7 +81,7 @@
 | HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
 | Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
 | SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
-| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1138510) | 00 | - |
+| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1657234) | 00 | - |
 | Vjudge | [tanviruman](https://vjudge.net/user/tanviruman) | - | - |
 | Codewars| [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman) | - | - |
 
