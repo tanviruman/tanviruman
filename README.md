@@ -112,11 +112,11 @@ Last Updated: 31 May, 2024
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C programming Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/loop-related-problems)
 - [C programming Conditions Related Problems and Solutions](https://tanviruman.hashnode.dev/conditions-related-problems)
 - [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
 - [C programming Operator Related Problems and Solutions](https://tanviruman.hashnode.dev/operator-related-problems)
 - [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
-- [C programming Basic Introductory Problems and Solutions](https://tanviruman.hashnode.dev/basic-introductory-problems)
 <!-- BLOG-POST-LIST:END -->
 ---
 <h3 align="left">Connect with me:</h3>
