@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **C++ & Java**
 
-- 👨‍💻 All of my projects are available at [https://tanviruman.github.io](https://tanviruman.github.io)
+- 👨‍💻 All of my projects are available at [https://tanvirumantar.github.io](https://tanvirumantar.github.io)
 
 - 📝 I regularly write articles on [https://tanviruman.medium.com](https://tanviruman.medium.com)
 
