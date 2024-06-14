@@ -104,35 +104,67 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 Last Updated: 31 May, 2024
 
----
+
 </p>
 
-### Github Stats
+##  Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="sadia-ahmmed"  /></p>
+
+##  Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>GitHub Profile Stats</b></summary>
+  <br/>
+<!--   <p align="center">
+    <a href="https://github.com/sadia-ahmmed/github-readme-stats"><img alt="Tanvirs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp; -->
+  <br/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<!--
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://tanviruman"><img alt="Sadia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanviruman&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+-->
+<br/>
+
+
+<!-- ### Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
 
-![GitHub metrics](https://metrics.lecoq.io/tanviruman) 
+![GitHub metrics](https://metrics.lecoq.io/tanviruman) */
   
 </p>
 
 
 ### TOP Languages
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" /> -->
 
 
----
+
 
 
 ### Coding Activity
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>
+<!--<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>-->
 
 
----
 
-### Badges
-[![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman)
----
+
+<!--### Badges
+[![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman) -->
+
 ### MY Learning Journey
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 
