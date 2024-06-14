@@ -64,6 +64,28 @@
 [![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows&logoColor=A8B9CC)](#)&nbsp;
 [![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)](#)&nbsp;
 
+### MY Recent Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [C programming Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/loop-related-problems)
+- [C programming Conditions Related Problems and Solutions](https://tanviruman.hashnode.dev/conditions-related-problems)
+- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
+- [C programming Operator Related Problems and Solutions](https://tanviruman.hashnode.dev/operator-related-problems)
+- [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
+<!-- BLOG-POST-LIST:END -->
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out, and let's embark on this incredible journey of innovation and discovery.
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/) 
+ [![X](https://img.shields.io/badge/X-Follow-red)](https://twitter.com/tanviruman/)
+ [![Hashnode](https://img.shields.io/badge/Hashnode-Follow-blue)](https://tanviruman.hashnode.dev/)
+ [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://kaggle.com/tanviruman/)
+ [![Leetcode](https://img.shields.io/badge/Leetcode-Follow-orange)](https://www.leetcode.com/tanviruman/)
+ [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.hackerrank.com/profile/tanviruman/)
+
+
+
 ## Problem Solving Stats
 
 
@@ -104,32 +126,7 @@ Last Updated: 31 May, 2024
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&theme=radical&title_color=ffaa00&text_color=f4f1f1&locale=en" alt="tanviruman" />
 
 
-
-
-
 ---
-
-
-### MY Recent Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [C programming Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/loop-related-problems)
-- [C programming Conditions Related Problems and Solutions](https://tanviruman.hashnode.dev/conditions-related-problems)
-- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
-- [C programming Operator Related Problems and Solutions](https://tanviruman.hashnode.dev/operator-related-problems)
-- [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
-<!-- BLOG-POST-LIST:END -->
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out, and let's embark on this incredible journey of innovation and discovery.
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanvirumaan/) 
- [![X](https://img.shields.io/badge/X-Follow-red)](https://twitter.com/tanviruman/)
- [![Hashnode](https://img.shields.io/badge/Hashnode-Follow-blue)](https://tanviruman.hashnode.dev/)
- [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://kaggle.com/tanviruman/)
- [![Leetcode](https://img.shields.io/badge/Leetcode-Follow-orange)](https://www.leetcode.com/tanviruman/)
- [![HackerRank](https://img.shields.io/badge/HackerRank-Follow-green)](https://www.hackerrank.com/profile/tanviruman/)
-  
 
 
 ### Coding Activity
