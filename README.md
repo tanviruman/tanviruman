@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" />  <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
+
+[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
 
 
 
@@ -23,12 +25,6 @@
 
 
 
-
-<a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
-[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
-
----
-
 # Current overview
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
 
@@ -38,11 +34,10 @@
 
 - 📝 I regularly write articles on [https://tanviruman.medium.com](https://tanviruman.medium.com)
 
----
+
 </p> 
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
-
 
 ## Languages
 
@@ -72,7 +67,7 @@
 - [C programming Operator Related Problems and Solutions](https://tanviruman.hashnode.dev/operator-related-problems)
 - [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
 <!-- BLOG-POST-LIST:END -->
----
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out, and let's embark on this incredible journey of innovation and discovery.
@@ -118,7 +113,6 @@ Last Updated: 31 May, 2024
 
 ![GitHub metrics](https://metrics.lecoq.io/tanviruman) 
   
----
 </p>
 
 
