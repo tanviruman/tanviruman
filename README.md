@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" />  <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9"><img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" alt="Total time coded since Jan 14 2024" /></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)
+<!--[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)-->
 
 
 
