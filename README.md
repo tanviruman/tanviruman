@@ -32,7 +32,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tanvirumantar.github.io](https://tanvirumantar.github.io)
 
-- 📝 I regularly write articles on [https://hashnode.com/@tanviruman](https://hashnode.com/@tanviruman)
+- 📝 I regularly write articles on [https://tanviruman.hashnode.dev/](https://tanviruman.hashnode.dev/)
 
 
 </p> 
