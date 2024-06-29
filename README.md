@@ -61,11 +61,11 @@
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C programming Strings Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-strings-related-problems-and-solutions)
 - [C programming 2D Array Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-2d-array-related-problems-and-solutions)
 - [C programming Nested For Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/nested-for-loop-related-problems-and-solutions)
 - [C programming 1-D array Related Problems and Solutions](https://tanviruman.hashnode.dev/1-d-array-related-problems-and-solutions)
 - [C programming Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/loop-related-problems)
-- [C programming Conditions Related Problems and Solutions](https://tanviruman.hashnode.dev/conditions-related-problems)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
