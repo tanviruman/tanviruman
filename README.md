@@ -117,7 +117,7 @@ Last Updated: 31 May, 2024-->
   <summary><b>GitHub Profile Stats</b></summary>
   <br/>
 <!--   <p align="center">
-    <a href="https://github.com/sadia-ahmmed/github-readme-stats"><img alt="Tanvirs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/tanviruman/github-readme-stats"><img alt="Tanvirs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp; -->
   <br/>
