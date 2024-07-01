@@ -108,7 +108,7 @@ Last Updated: 31 May, 2024-->
 </p>
 
 ##  Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="sadia-ahmmed"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="tanviruman"  /></p>
 
 ##  Github Stats (Expand to View) 
 
@@ -121,7 +121,7 @@ Last Updated: 31 May, 2024-->
 <br/>
   &nbsp; -->
   <br/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tanviruman" height="192px"/>
   <br/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviruman&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
