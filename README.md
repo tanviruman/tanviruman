@@ -168,10 +168,19 @@ Last Updated: 31 May, 2024
 </details>
 
 
-<details>
+<!--<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://tanviruman"><img alt="Tanvirs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanviruman&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+-->
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/tanviruman"><img alt="Tanvir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanviruman&custom_title=Tanvir%20Ahmed's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
