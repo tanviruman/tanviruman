@@ -81,7 +81,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 
 
-## Problem Solving Stats
+<!--## Problem Solving Stats
 
 
 | OJ | Username | Solve Count | Max Rating |
@@ -102,7 +102,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 | Vjudge | [tanviruman](https://vjudge.net/user/tanviruman) | - | - |
 | Codewars| [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman) | - | - |
 
-Last Updated: 31 May, 2024
+Last Updated: 31 May, 2024-->
 
 
 </p>
@@ -129,14 +129,49 @@ Last Updated: 31 May, 2024
   
 	
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+ </p>
+
+
+## Problem Solving Stats
+
+
+| OJ | Username | Solve Count | Max Rating |
+| -- | -------- | ----------- | ---------- |
+| Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
+| AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
+| CodeChef | [tanviruman](https://www.codechef.com/users/tanviruman) | 00 | 00 |
+| Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
+| LeetCode | [tanviruman](https://leetcode.com/tanviruman) | 00 | - |
+| CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
+| LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
+| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
+| HackerRank | [tanviruman](https://www.hackerrank.com/profile/tanviruman) | 02 | - |
+| HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
+| Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
+| SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
+| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1657234) | 00 | - |
+| Vjudge | [tanviruman](https://vjudge.net/user/tanviruman) | - | - |
+| Codewars| [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman) | - | - |
+
+Last Updated: 31 May, 2024
+
+### Coding Activity
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
+
+### MY Learning Journey
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
+
+</p>
+
+
+ 
 </details>
 
 <!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://tanviruman"><img alt="Sadia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanviruman&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://tanviruman"><img alt="tanvirs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tanviruman&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -160,8 +195,8 @@ Last Updated: 31 May, 2024
 
 
 
-### Coding Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
+<!--### Coding Activity
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>-->
 <!--<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/97d44b81-48d6-41a3-b7dc-9537b4ec0e04.png" /></a>-->
 
 
@@ -170,8 +205,8 @@ Last Updated: 31 May, 2024
 <!--### Badges
 [![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman) -->
 
-### MY Learning Journey
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
+<!--### MY Learning Journey
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>-->
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
