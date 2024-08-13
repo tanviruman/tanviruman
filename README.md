@@ -123,45 +123,23 @@ Last Updated: 31 May, 2024-->
   <br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tanviruman" height="192px"/>
   <br/>
+	
+<br>
+<div align="center">
+    <a href="https://github.com/tanviruman">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviruman&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+<div align="center">
+ <a href="https://github.com/tanviruman?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@tanviruman's github-readme-stats"/></a>
+ <a href="https://github.com/tanviruman?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@tanviruman's github-readme-streak-stats"/></a>
+</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanviruman&show_icons&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="Activity Graph" />
 </p>
   
 	
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- </p>
-
-
-## Problem Solving Stats
-
-
-| OJ | Username | Solve Count | Max Rating |
-| -- | -------- | ----------- | ---------- |
-| Codeforces | [tanviruman](https://codeforces.com/profile/tanviruman) | 00 | 00 |
-| AtCoder | [tanviruman](https://atcoder.jp/users/tanviruman) | 00 | 00 |
-| CodeChef | [tanviruman](https://www.codechef.com/users/tanviruman) | 00 | 00 |
-| Toph | [tanviruman](https://toph.co/u/tanviruman) | 00 | 00 |
-| LeetCode | [tanviruman](https://leetcode.com/tanviruman) | 00 | - |
-| CSES | [tanviruman](https://cses.fi/user/239259) | 00 | - |
-| LightOJ | [tanviruman](https://lightoj.com/user/tanviruman) | 00 | - | 
-| Timus | [tanviruman](https://acm.timus.ru/author.aspx?id=380119) | 00 | - |
-| HackerRank | [tanviruman](https://www.hackerrank.com/profile/tanviruman) | 02 | - |
-| HackerEarth | [tanviruman](https://www.hackerearth.com/@tanviruman) | 00 | - |
-| Kattis | [tanviruman](https://open.kattis.com/users/tanviruman) | oo | - |
-| SPOJ | [tanviruman](https://www.spoj.com/users/tanviruman/) | 00 | - |
-| UVA | [tanhviruman](https://uhunt.onlinejudge.org/id/1657234) | 00 | - |
-| Vjudge | [tanviruman](https://vjudge.net/user/tanviruman) | - | - |
-| Codewars| [![codewars](https://www.codewars.com/users/tanviruman/badges/micro)](https://www.codewars.com/users/tanviruman) | - | - |
-
-Last Updated: 31 May, 2024
-
-### Coding Activity
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
-
-### MY Learning Journey
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
-
-</p>
 
 
  
@@ -178,10 +156,19 @@ Last Updated: 31 May, 2024
 -->
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-	<a href="https://github.com/tanviruman"><img alt="Tanvir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tanviruman&custom_title=Tanvir%20Ahmed's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <summary><b> Recent GitHub Activity</b></summary>
+
+   </p>
+
+
+### Coding Activity
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanviruman/8c8b7196-e6f9-46c6-b23b-db2cc3d76312.png" /></a>
+
+### MY Learning Journey
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
+
+</p>
+
 
 </details>
 
