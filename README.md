@@ -111,6 +111,35 @@ Last Updated: 31 May, 2024-->
 <a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
 <img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="120"/>
 
+<a href="https://www.credly.com/badges/881a7229-e2f5-45b1-8a12-79fc82757cbe/public_url">
+<img src="image/cybersecurity-essentials.png" alt="Cybersecurity Essentials" width="120"/>
+
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+	
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+
+
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+
+<!--
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+-->
+
+
+
+
+
+
 ##  Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="tanviruman"  /></p>
 
