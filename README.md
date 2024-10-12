@@ -130,6 +130,10 @@ Last Updated: 31 May, 2024-->
 <a href="https://www.credly.com/badges/784c02e3-2c66-4769-8e84-6fded7fe0504/public_url">
 <img src="image/python-essentials-1.1.png" alt="Python Essentials 1" width="120"/>
 
+<a href="https://www.holopin.io/userbadge/cltozxakd90800gkxzf14ld0q">
+<img src="image/Early Bird Pegasaurus.png" alt="Early Bird Pegasaurus" width="120"/>
+
+
 <!--
 <a href="   ">
 <img src="   " alt="   " width="120"/>
