@@ -85,6 +85,8 @@
 <a href="https://www.holopin.io/userbadge/cltozxakd90800gkxzf14ld0q">
 <img src="image/Early Bird Pegasaurus.png" alt="Early Bird Pegasaurus" width="120"/>
 
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm26c38px385820cl67liks0zc">
+<img src="image/Hacktoberfest 2024-Registered.png" alt="Hacktoberfest 2024: Registered" width="120"/>
 
 <!--
 <a href="   ">
