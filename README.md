@@ -107,6 +107,10 @@ Last Updated: 31 May, 2024-->
 
 </p>
 
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
+<a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
+<img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="120"/>
+
 ##  Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="tanviruman"  /></p>
 
