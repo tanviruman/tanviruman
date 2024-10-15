@@ -289,6 +289,9 @@ Last Updated: 31 May, 2024-->
   &emsp;
 <a href="https://www.holopin.io/userbadge/cltozxakd90800gkxzf14ld0q">
 <img src="image/Early Bird Pegasaurus.png" alt="Early Bird Pegasaurus" width="120"/>
+  &emsp;
+ <a href="https://g.dev/tanviruman">
+<img src="image/IO2024Registered.svg" alt="I/O 2024 - Registered" width="120"/>
 <!--
 <a href="   ">
 <img src="   " alt="   " width="120"/>
