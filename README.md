@@ -262,40 +262,6 @@ Last Updated: 31 May, 2024-->
 
 </p>
 
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
-<a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
-<img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="120"/>
-  &emsp;
-<a href="https://www.credly.com/badges/881a7229-e2f5-45b1-8a12-79fc82757cbe/public_url">
-<img src="image/cybersecurity-essentials.png" alt="Cybersecurity Essentials" width="120"/>
-  &emsp;
-<a href="https://www.credly.com/badges/2bb9afc9-05e8-4366-bd49-b4fd5c37e6b4/public_url">
-<img src="image/computer-hardware-basics.png" alt="Computer Hardware Basics" width="120"/>
-  &emsp;
-<a href="https://www.credly.com/badges/466350d2-1c7b-4682-9935-61519ab55814/public_url">
-<img src="image/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="120"/>
-  &emsp;	
-<a href="https://www.credly.com/badges/178a4c25-ec5a-4cd2-8988-5de2955fae55/public_url">
-<img src="image/c-essentials-1.1.png" alt="C Essentials 1" width="120"/>
-  &emsp;
-<a href="https://www.credly.com/badges/6ca18d68-a473-4973-89ef-c059b4e3cc40/public_url">
-<img src="image/c-essentials-2.1.png" alt="C Essentials 2" width="120"/>
-  &emsp;
-<a href="https://www.credly.com/badges/784c02e3-2c66-4769-8e84-6fded7fe0504/public_url">
-<img src="image/python-essentials-1.1.png" alt="Python Essentials 1" width="120"/>
-  &emsp;
-<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm26c38px385820cl67liks0zc">
-<img src="image/Hacktoberfest 2024-Registered.png" alt="Hacktoberfest 2024: Registered" width="120"/>
-  &emsp;
-<a href="https://www.holopin.io/userbadge/cltozxakd90800gkxzf14ld0q">
-<img src="image/Early Bird Pegasaurus.png" alt="Early Bird Pegasaurus" width="120"/>
-  &emsp;
- <a href="https://g.dev/tanviruman">
-<img src="image/IO2024Registered.svg" alt="I/O 2024 - Registered" width="120"/>
-<!--
-<a href="   ">
-<img src="   " alt="   " width="120"/>
--->
 
 
 
@@ -421,6 +387,40 @@ Last Updated: 31 May, 2024
 
 <!--### MY Learning Journey
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>-->
+## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
+<a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
+<img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="120"/>
+  &emsp;
+<a href="https://www.credly.com/badges/881a7229-e2f5-45b1-8a12-79fc82757cbe/public_url">
+<img src="image/cybersecurity-essentials.png" alt="Cybersecurity Essentials" width="120"/>
+  &emsp;
+<a href="https://www.credly.com/badges/2bb9afc9-05e8-4366-bd49-b4fd5c37e6b4/public_url">
+<img src="image/computer-hardware-basics.png" alt="Computer Hardware Basics" width="120"/>
+  &emsp;
+<a href="https://www.credly.com/badges/466350d2-1c7b-4682-9935-61519ab55814/public_url">
+<img src="image/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="120"/>
+  &emsp;	
+<a href="https://www.credly.com/badges/178a4c25-ec5a-4cd2-8988-5de2955fae55/public_url">
+<img src="image/c-essentials-1.1.png" alt="C Essentials 1" width="120"/>
+  &emsp;
+<a href="https://www.credly.com/badges/6ca18d68-a473-4973-89ef-c059b4e3cc40/public_url">
+<img src="image/c-essentials-2.1.png" alt="C Essentials 2" width="120"/>
+  &emsp;
+<a href="https://www.credly.com/badges/784c02e3-2c66-4769-8e84-6fded7fe0504/public_url">
+<img src="image/python-essentials-1.1.png" alt="Python Essentials 1" width="120"/>
+  &emsp;
+<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm26c38px385820cl67liks0zc">
+<img src="image/Hacktoberfest 2024-Registered.png" alt="Hacktoberfest 2024: Registered" width="120"/>
+  &emsp;
+<a href="https://www.holopin.io/userbadge/cltozxakd90800gkxzf14ld0q">
+<img src="image/Early Bird Pegasaurus.png" alt="Early Bird Pegasaurus" width="120"/>
+  &emsp;
+ <a href="https://g.dev/tanviruman">
+<img src="image/IO2024Registered.svg" alt="I/O 2024 - Registered" width="120"/>
+<!--
+<a href="   ">
+<img src="   " alt="   " width="120"/>
+-->
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
