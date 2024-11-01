@@ -420,6 +420,21 @@ Last Updated: 31 May, 2024
   &emsp;
  <a href="https://g.dev/tanviruman">
 <img src="image/IO2024Registered.svg" alt="I/O 2024 - Registered" width="100"/>
+ &emsp; 
+<a href="https://tanviruman.hashnode.dev/badges">
+<img src="image/Self Starter.png" alt="Self Starter" width="100"/>
+ &emsp; 
+<a href="https://tanviruman.hashnode.dev/badges">
+<img src="image/Word Warrior.png" alt="Word Warrior" width="100"/>
+    &emsp; 
+<a href="https://tanviruman.hashnode.dev/badges">
+<img src="image/2Articles1Week Bronze Badge.png" alt="2Articles1Week Bronze Badge" width="100"/>
+ &emsp; 
+<a href="https://tanviruman.hashnode.dev/badges">
+<img src="image/2Articles1Week Silver Badge.png" alt="2Articles1Week Silver Badge" width="100"/>
+ &emsp; 
+<a href="https://tanviruman.hashnode.dev/badges">
+<img src="image/2Articles1Week Gold Badge.png" alt="2Articles1Week Gold Badge" width="100"/>
 <!--
 <a href="   ">
 <img src="   " alt="   " width="120"/>
