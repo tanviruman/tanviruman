@@ -271,7 +271,7 @@ Last Updated: 31 May, 2024-->
 
 
 
-##  Github Stats (Expand to View) 
+##  More (Expand to View) 
 
 
 <details> 
@@ -356,7 +356,7 @@ Last Updated: 31 May, 2024
 
 </details>
 
-<br/>
+
 
 
 <!-- ### Github Stats
@@ -387,7 +387,10 @@ Last Updated: 31 May, 2024
 
 <!--### MY Learning Journey
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>-->
-## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
+<details> 
+  <summary><b>Badge</b></summary>
+  <br/>
+<!--## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge-->
 <a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
 <img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="100"/>
   &emsp;
@@ -421,7 +424,7 @@ Last Updated: 31 May, 2024
 <a href="   ">
 <img src="   " alt="   " width="120"/>
 -->
-
+</details>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
