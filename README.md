@@ -216,11 +216,11 @@
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
-- [Test](https://tanviruman.medium.com/test-4444ab34b3b4?source=rss-1f24082b258------2)
-- [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
-- [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
-- [Me in a Nutshell](https://tanviruman.blogspot.com/2023/05/me-in-nutshell.html)
+- [C programming Function Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-function-related-problems-and-solutions)
+- [C programming Pointer Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-pointer-related-problems-and-solutions)
+- [C programming Strings Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-strings-related-problems-and-solutions)
+- [C programming 2D Array Related Problems and Solutions](https://tanviruman.hashnode.dev/c-programming-2d-array-related-problems-and-solutions)
+- [C programming Nested For Loop Related Problems and Solutions](https://tanviruman.hashnode.dev/nested-for-loop-related-problems-and-solutions)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
