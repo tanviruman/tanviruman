@@ -271,7 +271,7 @@ Last Updated: 31 May, 2024-->
 
 
 
-##  More (Expand to View) 
+<!--##  More (Expand to View) 
 
 
 <details> 
@@ -281,7 +281,7 @@ Last Updated: 31 May, 2024-->
     <a href="https://github.com/tanviruman/github-readme-stats"><img alt="Tanvirs's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanviruman&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp; -->
-  <br/>
+<!--  <br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanviruman&show_icons=true&locale=en&layout=compact&theme=algolia" alt="tanviruman" height="192px"/>
   <br/>
 	
@@ -304,7 +304,7 @@ Last Updated: 31 May, 2024-->
 
 
  
-</details>
+</details> -->
 
 
 <!--<details>
@@ -314,7 +314,7 @@ Last Updated: 31 May, 2024-->
   <br/>
 
 </details>
--->
+
 
 <details>
   <summary><b> Coding Activity</b></summary>
@@ -386,11 +386,11 @@ Last Updated: 31 May, 2024
 [![An image of @tanviruman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanviruman)](https://holopin.io/@tanviruman) -->
 
 <!--### MY Learning Journey
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>-->
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/655dce9768ca6026136471c0?variant=dark" alt="roadmap.sh"/></a>
 <details> 
   <summary><b>Badge</b></summary>
   <br/>
-<!--## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge-->
+<!--## <img align="left" src="https://user-images.githubusercontent.com/65576812/180335476-afb779d0-4032-4e60-9f4d-d1c3e849db2c.png" width="40px">Badge
 <a href="https://www.credly.com/badges/977239cf-0a08-4eb9-9388-19c691b01c2d/public_url">
 <img src="image/introduction-to-cybersecurity (1).png" alt="Introduction to Cybersecurity" width="100"/>
   &emsp;
@@ -438,9 +438,9 @@ Last Updated: 31 May, 2024
 <!--
 <a href="   ">
 <img src="   " alt="   " width="120"/>
--->
-</details>
 
+</details>
+-->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
