@@ -268,7 +268,17 @@ Last Updated: 31 May, 2024-->
 ##  Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviruman&theme=radical" alt="tanviruman"  /></p>
 
+## 📊 GitHub Stats
 
+<p align="justify">
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanviruman&theme=radical&show_icons=true&hide_border=true)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanviruman&theme=radical&hide_border=true&layout=compact)](https://github.com/tanviruman/github-readme-stats)
+
+
+
+</p>
 
 
 <!--##  More (Expand to View) 
