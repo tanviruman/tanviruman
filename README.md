@@ -27,7 +27,7 @@
 <h3 align="center">I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community.</h3>
 
 
-
+<!--
 # Current overview
 - 🔭 I’m currently working on [MYself](https://tanvirumanuiu.bio.link)
 
@@ -37,7 +37,7 @@
 
 - 📝 I regularly write articles on [https://tanviruman.hashnode.dev/](https://tanviruman.hashnode.dev/)
 
-
+-->
 </p> 
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=40px> </h2> 
