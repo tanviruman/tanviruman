@@ -4,7 +4,7 @@
 </a>
 </a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Tanvir%20Ahmed&fontSize=42&fontAlignY=32&desc=Junior%20Programmer;Aspiring%20Data%20Scientist;Research%20and%20Robotics%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Tanvir%20Ahmed&fontSize=42&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20|%20Research%20and%20Robotics%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 </div>
 
 <!--[![Gmail Badge](https://img.shields.io/badge/-tanvirumancontact@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tanvirumancontact@gmail.com)](mailto:tanvirumancontact@gmail.com)-->
@@ -461,3 +461,4 @@ Last Updated: 31 May, 2024
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
