@@ -11,9 +11,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Tanvir%20Ahmed&fontSize=42&fontAlignY=32&desc=Undergraduate%20CSE%20Student%20@%20United%20International%20University&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 </div> 
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;Campus+Ambassador+%F0%9F%8C%90+%40SheSTEM;Campus+Lead+%F0%9F%A4%96+%40Banglay+Robotics;Volunteer+%F0%9F%A4%9D+%40UNDP+Futurenation;6%C3%97+Best+CA+Awardee+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;HI!%20I%20am%20Tanvir%20Ahmed;Campus+Ambassador+%F0%9F%8C%90+%40SheSTEM;Campus+Lead+%F0%9F%A4%96+%40Banglay+Robotics;Volunteer+%F0%9F%A4%9D+%40UNDP+Futurenation;6%C3%97+Best+CA+Awardee+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
