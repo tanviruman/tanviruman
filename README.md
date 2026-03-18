@@ -34,11 +34,11 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
 
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [5](https://tanviruman.blogspot.com/2026/03/5.html)
-- [4](https://tanviruman.blogspot.com/2026/03/4.html)
-- [3](https://tanviruman.blogspot.com/2026/03/3.html)
-- [2](https://tanviruman.blogspot.com/2026/03/2.html)
-- [1](https://tanviruman.blogspot.com/2026/03/1.html)
+- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
+- [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
+- [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
+- [Me in a Nutshell](https://tanviruman.blogspot.com/2023/05/me-in-nutshell.html)
+- [Hellow World 👨‍💻](https://tanviruman.blogspot.com/2023/05/hellow-world.html)
 <!-- BLOG-POST-LIST:END -->
 
 
