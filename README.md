@@ -25,7 +25,7 @@ I am a undergraduate engineering students who is passionate about leveraging mac
 <h2 align="left"> Tech Stack </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,arduino,git,github,linux,vscode,figma,photoshop,canva&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,php,javascript,arduino,markdown,git,github,linux,vscode,idea,figma,photoshop,canva&perline=7" />
 </p>
 
 ### MY Recent Blogs posts
