@@ -34,6 +34,7 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
 <!--
 ### MY Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<!-- 
 - [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
 - [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
 - [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
