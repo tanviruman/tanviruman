@@ -47,7 +47,7 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true" width="48%" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 Let's connect, collaborate, and code our way to a brighter future together! Feel free to reach out.
 
