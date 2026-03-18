@@ -19,7 +19,7 @@
 <br/>
 
 <h3 align="center">
-I am a undergraduate engineering students who is passionate about leveraging machine learning and data science to drive meaningful insights and create impactful solutions.Through my account, I aim to demonstrate my expertise, showcase my projects, and contribute to the data science community.
+I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence, and Cybersecurity. I enjoy learning, building projects, and creating secure and intelligent technology solutions.
 </h3>
 
 <h2 align="left"> Tech Stack </h2>
