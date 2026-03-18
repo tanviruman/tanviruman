@@ -25,7 +25,11 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
 <h2 align="left"> Tech Stack </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,php,javascript,arduino,markdown,git,github,linux,vscode,idea,figma,photoshop,canva&perline=7" />
+  
+| Languages  | Development | Databases | Machine Learning & Research | DevOps |
+|--------------------------------------------------------------------------------------------------------|-------------|-----------------------------|--------|--------|
+| [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php&perline=3)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,spring,fastapi,solidity&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tensorflow,latex&perline=4)](https://skillicons.dev) <img style="width: 48px; height: 48px; display: inline" src='https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg'>  | [![My Skills](https://skillicons.dev/icons?i=bash,git,&perline=3)](https://skillicons.dev) |
+ <!-- <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,php,javascript,arduino,markdown,git,github,linux,vscode,idea,figma,photoshop,canva&perline=7" /> -->
 </p>
 
 ### MY Recent Blogs posts
