@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Tanvir%20Ahmed&fontSize=42&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20|%20Research%20and%20Robotics%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Tanvir%20Ahmed&fontSize=42&fontAlignY=32&desc=Undergraduate%20CSE%20Student%20@%20United%20International%20University&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 </div>
 
 <p align="center">
