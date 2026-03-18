@@ -29,11 +29,14 @@ I am a undergraduate engineering students who is passionate about leveraging mac
 </p>
 
 ### MY Recent Blogs posts
-- ["Eat That Frog!"-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
+<!-- BLOG-POST-LIST:START -->
+- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
 - [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
 - [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
 - [Me in a Nutshell](https://tanviruman.blogspot.com/2023/05/me-in-nutshell.html)
 - [Hellow World 👨‍💻](https://tanviruman.blogspot.com/2023/05/hellow-world.html)
+<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
