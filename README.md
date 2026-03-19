@@ -6,6 +6,9 @@
   <a href="https://tanvirumaan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff0000?style=flat-square&logo=vercel">
   </a>
+  <a href="https://tanvirumaan.vercel.app/#projects">
+  <img src="https://img.shields.io/badge/Projects-View-00c853?style=flat-square&logo=github">
+</a> 
 </p>
 
 <div align="center">
