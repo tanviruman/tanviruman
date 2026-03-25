@@ -9,6 +9,9 @@
   <a href="https://tanvirumaan.vercel.app/#projects">
   <img src="https://img.shields.io/badge/Projects-View-00c853?style=flat-square&logo=github">
 </a> 
+  <a href="https://drive.google.com/drive/folders/18_UcB5jJ7C2WrA3j-4E6H4tDy-j_Gtcj?usp=drive_link">
+  <img src="https://img.shields.io/badge/Resume-View-1e88e5?style=flat-square&logo=readthedocs">
+</a>
 </p>
 
 <div align="center">
