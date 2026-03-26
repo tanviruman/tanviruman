@@ -69,11 +69,11 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
     <td>Built a smart agriculture monitoring system using ESP32 to track environmental conditions for mushroom cultivation in real time. Integrated sensor-based monitoring, remote dashboard access, and automated fan control to help maintain optimal growing conditions.</td>
     <td>ESP32, IoT, Sensors, Dashboard</td>
 <td align="center">
-  <a href="YOUR_GITHUB_LINK" target="_blank">
+  <a href="https://github.com/tanviruman/IoT-Based-Mushroom-Environment-Monitoring-System" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="YOUR_LIVE_DEMO_LINK" target="_blank">
+  <a href="https://tanviruman-mushroom-iot.vercel.app/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </td>
