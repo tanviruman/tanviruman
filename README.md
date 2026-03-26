@@ -54,6 +54,40 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
 - [Hellow World 👨‍💻](https://tanviruman.blogspot.com/2023/05/hellow-world.html)
 <!-- BLOG-POST-LIST:END -->
 
+## Featured Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Repository</th>
+  </tr>
+
+  <tr>
+    <td><b> IoT-Based Mushroom Environment Monitoring System </b></td>
+    <td>Built a smart agriculture monitoring system using ESP32 to track environmental conditions for mushroom cultivation in real time. Integrated sensor-based monitoring, remote dashboard access, and automated fan control to help maintain optimal growing conditions.</td>
+    <td>ESP32, IoT, Sensors, Dashboard</td>
+<td align="center">
+  <a href="YOUR_GITHUB_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="YOUR_LIVE_DEMO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</td>
+  </tr>
+
+
+</table>
+
+
+
+
+
+
+
 ##  Streak Stats
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
