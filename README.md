@@ -65,7 +65,13 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
   </tr>
 
   <tr>
-    <td><b> IoT-Based Mushroom Environment Monitoring System </b></td>
+   <td align="center">
+  <strong>IoT-Based Mushroom Environment Monitoring System</strong><br><br>
+  
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-IoT-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Agriculture%20Technology-green?style=flat-square" />
+</td>
     <td>Built a smart agriculture monitoring system using ESP32 to track environmental conditions for mushroom cultivation in real time. Integrated sensor-based monitoring, remote dashboard access, and automated fan control to help maintain optimal growing conditions.</td>
     <td>ESP32, IoT, Sensors, Dashboard</td>
 <td align="center">
