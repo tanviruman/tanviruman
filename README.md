@@ -85,6 +85,37 @@ I’m a tech enthusiast with a strong interest in Java, Artificial Intelligence,
 </td>
   </tr>
 
+<tr>
+   <td align="center">
+  <strong>E-Voting Management System</strong><br><br>
+  
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Domain-Web%20Application-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Field-Digital%20Governance-green?style=flat-square" />
+</td>
+
+<td align="center">
+Built a secure, database-driven online voting system with role-based access (Admin, Voter, Candidate). Features include voter authentication, one-person-one-vote enforcement, election management, candidate approval, and real-time result calculation using MySQL.
+</td>
+
+<td align="center">
+PHP, MySQL, HTML, CSS, DBMS
+</td>
+
+<td align="center">
+  <a href="YOUR_GITHUB_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="YOUR_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</td>
+</tr>
+
+
+  
+
 
 </table>
 
