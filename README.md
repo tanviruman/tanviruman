@@ -103,11 +103,11 @@ PHP, MySQL, HTML, CSS, DBMS
 </td>
 
 <td align="center">
-  <a href="https://tanviruman-votechain.vercel.app/" target="_blank">
+  <a href="https://tanviruman-vote-chain.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://tanviruman-e-voting-and-management-system.vercel.app/" target="_blank">
+  <a href="https://tanviruman-e-voting-and-management.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </td>
