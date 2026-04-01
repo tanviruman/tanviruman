@@ -31,7 +31,7 @@
 <br/>
 
 <h3 align="center">
-I’m a tech enthusiast with a stronstronghold g interest in Java, Artificial Intelligence, and Cybersecurity. I enjoy learning, building projects, and creating secure and intelligent technology solutions.
+I’m a tech enthusiast with a stronstrong hold  interest in Java, Artificial Intelligence, and Cybersecurity. I enjoy learning, building projects, and creating secure and intelligent technology solutions.
 </h3>
 
 <h2 align="left"> Tech Stack </h2>
