@@ -131,6 +131,9 @@ PHP, MySQL, HTML, CSS, DBMS
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true" width="48%" />
 </div>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=tanviruman&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
 ## Connect with me
 <p align="left">
