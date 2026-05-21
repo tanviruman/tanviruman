@@ -126,7 +126,7 @@ PHP, MySQL, HTML, CSS, DBMS
 
 
 
-##  Streak Stats
+##  GitHub Insights
 <!--<div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true" width="48%" />
