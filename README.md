@@ -4,10 +4,10 @@
     <img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" />
   </a>
   
-  <a href="https://tanvirumaan.vercel.app">
+  <a href="https://tanviruman.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff0000?style=flat-square&logo=vercel">
   </a>
-  <a href="https://tanviruman.vercel.app/#projects">
+  <a href="https://tanvirumaan.vercel.app/#projects">
   <img src="https://img.shields.io/badge/Projects-View-00c853?style=flat-square&logo=github">
 </a> 
   <a href="https://drive.google.com/drive/folders/18_UcB5jJ7C2WrA3j-4E6H4tDy-j_Gtcj?usp=drive_link">
