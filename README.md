@@ -21,7 +21,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;HI!%20I%20am%20Tanvir%20Ahmed;ML+Intern+%F0%9F%8C%90+%40FlyRankAi;Java+Developer;Campus+Lead+%F0%9F%A4%96+%40Banglay+Robotics;8%C3%97+Best+CA+Awardee+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+%F0%9F%91%8B;HI!%20I%20am%20Tanvir%20Ahmed;ML+Intern+%F0%9F%8C%90+%40FlyRankAi;Java+Developer;)](https://git.io/typing-svg)
 
 </div>
 
