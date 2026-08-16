@@ -25,10 +25,6 @@
 
 </div>
 
- <!--<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI!%20I%20am%20Tanvir%20Ahmed;CSE%20@%20UIU-232;Junior%20Programmer;Aspiring%20Data%20Scientist;&font=Fira%20Code&center=true&width=440&height=45&color=FF0000&vCenter=true&pause=1000&size=30" />
-</p>-->
-
 <br/>
 
 <h3 align="center">
@@ -42,95 +38,13 @@ I’m a tech enthusiast with a strong hold  interest in Java, Artificial Intelli
 | Languages  | Development | Databases | Machine Learning & Research | DevOps |
 |--------------------------------------------------------------------------------------------------------|-------------|-----------------------------|--------|--------|
 | [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,md&perline=3)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=tensorflow,latex&perline=4)](https://skillicons.dev) <img style="width: 48px; height: 48px; display: inline" src='https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg'>  | [![My Skills](https://skillicons.dev/icons?i=bash,git,&perline=3)](https://skillicons.dev) |
- <!-- <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,mysql,php,javascript,arduino,markdown,git,github,linux,vscode,idea,figma,photoshop,canva&perline=7" /> -->
+ 
 </p>
-<!--
-### MY Recent Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- 
-- [&quot;Eat That Frog!&quot;-in a Nutshell](https://tanviruman.blogspot.com/2024/01/eat-that-frog-in-nutshell.html)
-- [First day at UIU](https://tanviruman.blogspot.com/2023/05/first-day-at-uiu.html)
-- [Google Bard Knows me](https://tanviruman.blogspot.com/2023/05/google-bard-knows-me.html)
-- [Me in a Nutshell](https://tanviruman.blogspot.com/2023/05/me-in-nutshell.html)
-- [Hellow World 👨‍💻](https://tanviruman.blogspot.com/2023/05/hellow-world.html)
-<!-- BLOG-POST-LIST:END -->
-
-<!--## Featured Projects
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Repository</th>
-  </tr>
-
-  <tr>
-   <td align="center">
-  <strong>IoT-Based Mushroom Environment Monitoring System</strong><br><br>
-  
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-IoT-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Agriculture%20Technology-green?style=flat-square" />
-</td>
-    <td align="center">Built a smart agriculture monitoring system using ESP32 to track environmental conditions for mushroom cultivation in real time. Integrated sensor-based monitoring, remote dashboard access, and automated fan control to help maintain optimal growing conditions.</td>
-    <td align="center">ESP32, IoT, Sensors, Dashboard</td>
-<td align="center">
-  <a href="https://github.com/tanviruman/IoT-Based-Mushroom-Environment-Monitoring-System" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://tanviruman-mushroom-iot.vercel.app/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</td>
-  </tr>
-
-<tr>
-   <td align="center">
-  <strong>E-Voting Management System</strong><br><br>
-  
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Domain-Web%20Application-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Field-Digital%20Governance-green?style=flat-square" />
-</td>
-
-<td align="center">
-Built a secure, database-driven online voting system with role-based access (Admin, Voter, Candidate). Features include voter authentication, one-person-one-vote enforcement, election management, candidate approval, and real-time result calculation using MySQL.
-</td>
-
-<td align="center">
-PHP, MySQL, HTML, CSS, DBMS
-</td>
-
-<td align="center">
-  <a href="https://tanviruman-vote-chain.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <br/><br/>
-  <a href="https://tanviruman-e-voting-and-management.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</td>
-</tr>
-
-
-  
-
-
-</table>
-
-
--->
-
 
 
 
 ##  GitHub Insights
-<!--<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tanviruman&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tanviruman&theme=gotham&hide_border=true" width="48%" />
-</div> -->
+
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=tanviruman&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
@@ -148,12 +62,7 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 </p>
 
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tanviruman&theme=gotham&layout=compact&hide_border=true" width="48%" />
-</div>-->
 
-<!--<img width="55%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />-->
 
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
 
