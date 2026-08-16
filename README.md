@@ -1,4 +1,4 @@
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tanviruman&label=Profile%20views&color=ffaa00&style=flat-square" alt="tanviruman" />  
   <a href="https://wakatime.com/@018d0444-5271-4ff5-9e31-91336ba41ac9">
     <img src="https://wakatime.com/badge/user/018d0444-5271-4ff5-9e31-91336ba41ac9.svg" />
@@ -66,4 +66,4 @@ Let's connect, collaborate, and code our way to a brighter future together! Feel
 
 ![](https://hit.yhype.me/github/profile?user_id=86592082)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> -->
